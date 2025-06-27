@@ -1,0 +1,43 @@
+body {
+    background-color: rgb(230, 55, 55);
+}
+
+p {
+    background-color: rgb(184, 8, 8);
+    color: white;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 20px;
+}
+
+.center {
+    text-align: center;
+}
+
+h1 {
+    background-color: rgb(184, 8, 8);
+    color: white;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 20px;
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+}
+
+nav a {
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+    border: 3px solid rgb(184, 8, 8);
+    border-radius: 10px;
+    background-color: rgb(184, 8, 8);
+    padding: 10px;
+}
+
+nav{
+    text-align: center;
+    padding: 20px;
+}
